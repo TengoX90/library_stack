@@ -1,2 +1,2 @@
 # library_stack
-Jupiter Notebook MSc Data Science Project
+Jupiter Notebook (MSc Data Science Project)
